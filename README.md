@@ -1,1 +1,1 @@
-First extension in of vscode in vscode.
+First extension of vscode in vscode.
